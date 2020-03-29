@@ -1,0 +1,21 @@
+Change Log @Ver 1.2 :
+
+1. Added tabs for multiple functions
+
+2. Increased the size of the drop charts box, as it was too small to read before.
+
+3. Added the ability to stop the music(at the last track, the button will change to read "STOP"; if clicked, the music will stop and the button will change back to "Track>>"
+
+4. Added a "Mag Feeding Chart" tab with a drop menu containing every single possible mag attainable (excluding the special mags). After making a selection, pressing the button will bring up the appropriate feeding chart for the mag.
+
+5. Added a "Hot Chicks" tab. I was bored and figured an extra bonus tab would be nice! Every picture is clickable for extra details.
+
+6. Added tooltip contexts for every tab.
+
+7. Added an "About" tab. Now that this project is becoming rather large and somewhat useful, it seemed like a good idea to include some information about myself just in case 	somebody wants to support me with a donation ;)
+
+8. Lastly, all of the contents of the frame are placed dynamically, which means that the components such as buttons and text fields are all proportional to each other. Before I had placed the components at fixed locations, making it hard to add content. Now, further expansions to this software should not take as long.
+
+Simple Instructions:
+	
+If you want to be able to use the shortcut (that has the cool icon), the folder must be placed in "C:\". If you know how to set up shortcuts and icons on your own, the icon file is provided just for that. Enjoy!
